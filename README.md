@@ -1,23 +1,22 @@
-CSCI4140 (2013 Spring) Open source software development course project of The Chinese University of Hong Kong
+CSCI4140 (2013 Spring) Open source software development course project, The Chinese University of Hong Kong
 
-This is a course project about a turn-based web game that requires Player to use simple programming to command his character to clear levels.   
+Project Name : Code Defense   
+This is a turn-based web game that need "player" write simple programming (or instructure) to command his/her character to clear levels.   
 
-use javascript with node-browserify, CreateJS (http://www.createjs.com/ by Adobe)   
-Most assets are from Ragnarok Battle Offline (http://en.wikipedia.org/wiki/Ragnarok_Battle_Offline)    
+Demo: http://codedefense-ntf.rhcloud.com/  (Please let me know if it's broken)   
 
-Project Name : Code Defense
+Javascript with node-browserify
+CreateJS (http://www.createjs.com/ from Adobe)   
+Most assets from Ragnarok Battle Offline (http://en.wikipedia.org/wiki/Ragnarok_Battle_Offline)    
 
 Requirement
 * Node.js
 
-
-Update Node.js Dependences   
+Install Node.js dependences   
 npm install  
 
-Run Server  
-node app -dev  
+Run server  
+node app -dev 
 
-Build client-side Javascript        
-node build   
-Build client-side Javascript (development)      
-node build -dev
+Build client-side javascript files (development)      
+node build -dev  
