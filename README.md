@@ -3,7 +3,7 @@ CSCI4140 (2013 Spring) Open source software development course project, The Chin
 Project Name : Code Defense   
 This is a turn-based web game that need "player" write simple program (or instructure) to command his/her character to cast Magic spells to fight and stop the enemies from reaching the red line.   
 
-Demo: http://codedefense-ntf.rhcloud.com/  (Please let me know it is not available)    
+Demo: http://codedefense-ntf.rhcloud.com/  (Please let me know if it is not available)    
 
 Javascript with node-browserify
 CreateJS (http://www.createjs.com/)   
